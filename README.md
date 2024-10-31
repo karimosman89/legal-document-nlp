@@ -19,7 +19,7 @@ Install dependencies:
 
 
 
-     python src/extraction.py
+       python src/extraction.py
 
     
 - Summarize documents:
