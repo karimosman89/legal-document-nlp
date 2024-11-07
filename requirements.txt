@@ -1,1 +1,6 @@
+spacy
+gensim
+transformers
+pandas
+scikit-learn
 
